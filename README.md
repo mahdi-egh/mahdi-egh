@@ -75,7 +75,7 @@ American Sign Language (ASL) Recognition using **Python, TensorFlow and MediaPip
 ### 🏅 CS50x – Introduction to Computer Science
 **Harvard University**
 
-🔗 YOUR_CS50X_CERTIFICATE_LINK
+🔗 https://cs50.harvard.edu/certificates/20b08995-fb1b-4f8b-8b94-b5f84cbe36b7
 
 ### 🐍 CS50P – Introduction to Programming with Python
 **Harvard University**
