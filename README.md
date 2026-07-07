@@ -48,6 +48,16 @@ CS50 Final Project
 American Sign Language (ASL) Recognition using Python, TensorFlow and MediaPipe.
 
 ---
+## 🎓 Certifications
+
+- 🏅 **CS50x: Introduction to Computer Science**
+  - Harvard University
+  - Covered algorithms, data structures, C, Python, SQL, JavaScript, HTML/CSS and software engineering fundamentals.
+
+- 🐍 **CS50P: Introduction to Programming with Python**
+  - Harvard University
+  - Focused on Python programming, object-oriented programming, testing, file I/O and APIs.
+---
 
 📊 GitHub Stats
 
