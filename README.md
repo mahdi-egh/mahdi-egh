@@ -1,139 +1,79 @@
-<div align="center">
+Hi there 👋, I'm Mahdi Eghdamdoust
 
-<img src="YOUR_CODING_GIF_URL_HERE" width="850" alt="Coding Animation"/>
+<p align="center">
+  <img src="./assets/coding.gif" width="500" alt="Coding GIF">
+</p><p align="center">
+  <a href="mailto:mahdieghdamdoust@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mahdieghdamdoust%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/mahdi-eghdamdoust-949a93192">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahdi%20Eghdamdoust-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>---
 
-# Hi, I'm Mahdi Eghdamdoust 👋
+👨‍💻 About Me
 
-### Backend Software Engineer
-
-I enjoy understanding complex software systems, tracing execution flow, and turning business requirements into reliable software.
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **Computer Engineering** student at **Islamic Azad University, Karaj**, currently working as a **Software Engineer** at **ArasB Holding / Mamut Construction**.
-
-My daily work revolves around maintaining and developing enterprise CRM/ERP systems, where I analyze legacy codebases, implement new business features, troubleshoot production issues, and collaborate across multiple teams.
-
-I enjoy understanding how large systems work internally before making changes, and I believe that writing software starts with understanding the business problem—not just the code.
-
----
-
-## 💼 Current Work
-
-- Maintaining and developing enterprise CRM/ERP modules
-- Implementing business requirements in PHP
-- Working with SQL databases and relational data models
-- Debugging and maintaining legacy systems
-- Tracing execution flow to understand complex codebases
-- Working across Backend (PHP) and Frontend (Bootstrap, JavaScript, jQuery)
-- Collaborating with teammates to deliver reliable business software
+- 💻 Backend Developer
+- 🌱 Passionate about Software Development and Problem Solving
+- 🚀 Interested in PHP, Laravel, .NET, SQL and Web Technologies
+- 📍 Always learning by building real-world projects
+- 🤝 Open to collaboration on interesting projects
 
 ---
 
-## 💡 Engineering Principles
+🛠️ Tech Stack
 
-- **Understand before changing.**
-- **Maintainable over clever.**
-- **Solve the business problem, not just the technical one.**
-- **Always leave the codebase better than I found it.**
+Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=php,cs,cpp,c,python,js,html,css,sql" />
+</p>Frameworks & Libraries
 
-## 🛠 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,jquery,bootstrap" />
+</p>Tools
 
-### Backend
-- PHP
-- SQL / MySQL
-- IdiORM
-- Eloquent
-- MVC
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,mysql,linux,postman" />
+</p>---
 
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- jQuery
+🚀 Featured Projects
 
-### Other
-- Git
-- REST APIs
-- Database Design
-- OOP
+CRM System
 
-### Currently Learning
-- Docker
-- Linux
-- Design Patterns
-- Software Architecture
-- System Design
-- Testing
-- CI/CD
+A Customer Relationship Management system developed using PHP, MySQL, JavaScript and jQuery.
+
+EDMS
+
+Enterprise Document Management System built with modern backend architecture.
+
+CS50 Final Project
+
+American Sign Language (ASL) Recognition using Python, TensorFlow and MediaPipe.
 
 ---
 
-## 🌱 Current Focus
+📊 GitHub Stats
 
-I'm currently focused on becoming a stronger backend engineer by improving my understanding of:
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahdi-egh&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-egh&layout=compact&theme=tokyonight"/>
+</p><p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-egh&theme=tokyonight"/>
+</p>---
 
-- Software Architecture
-- System Design
-- Backend Engineering
-- Distributed Systems
-- Linux
-- Docker
-- Clean Code
-- Testing
+🌐 Connect with Me
 
-Rather than chasing new frameworks, I prefer mastering the fundamentals that make software reliable and maintainable.
+📧 Email
 
----
+mahdieghdamdoust@gmail.com
 
-## ⭐ Featured Project
+💼 LinkedIn
 
-### ASL Recognition App
-
-A real-time American Sign Language Recognition application developed as my **CS50 Final Project**.
-
-**Tech Stack**
-
-- Python
-- OpenCV
-- MediaPipe
-- TensorFlow
-
-### Highlights
-
-- Real-time hand landmark detection
-- Custom TensorFlow classification model
-- Webcam-based inference
-- End-to-end ML pipeline from data collection to prediction
-
-🔗 Repository:
-https://github.com/mahdi-egh/ASL_Recognition_App
+https://www.linkedin.com/in/mahdi-eghdamdoust-949a93192
 
 ---
 
-## 🎯 Career Goal
-
-My goal is to become a backend software engineer capable of building and maintaining large-scale business systems, contributing to international engineering teams, and continuously improving my understanding of software engineering fundamentals.
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/mahdi-egh
-- LinkedIn: *(Coming Soon)*
-- Email: **your-email@example.com**
-
----
-
-<div align="center">
-
-*"First understand the system. Then improve it."*
-
-</div>
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
