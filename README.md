@@ -88,10 +88,6 @@ American Sign Language (ASL) Recognition using **Python, TensorFlow and MediaPip
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=100000&color=36BCF7&repeat=false&width=300&lines=%F0%9F%93%8A+GitHub+Stats"/>
 </p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahdi-egh&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-egh&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-egh&theme=tokyonight"/>
