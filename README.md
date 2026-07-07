@@ -26,16 +26,12 @@ Hi there 👋, I'm Mahdi Eghdamdoust
 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,cs,cp,python,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css,sql" />
 </p>Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,jquery,bootstrap" />
 </p>Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=github,docker,mysql,linux,postman" />
-</p>---
 
 🚀 Featured Projects
 
