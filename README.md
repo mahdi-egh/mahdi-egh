@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mahdi%20Eghdamdoust&fontSize=45&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=28&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=900&height=120&lines=%24+whoami;Mahdi+Eghdamdoust;%24+Backend+Developer;%24+PHP+%7C+Laravel+%7C+SQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
