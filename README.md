@@ -51,12 +51,6 @@
 <img src="https://skillicons.dev/icons?i=laravel,jquery,bootstrap"/>
 </p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,linux,postman"/>
-</p>
-
 ---
 
 <p>
