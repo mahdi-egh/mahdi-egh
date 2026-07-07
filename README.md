@@ -15,7 +15,7 @@ Hi there 👋, I'm Mahdi Eghdamdoust
 
 - 💻 Backend Developer
 - 🌱 Passionate about Software Development and Problem Solving
-- 🚀 Interested in PHP, Laravel, .NET, SQL and Web Technologies
+- 🚀 Interested in PHP, Laravel, SQL and Web Technologies
 - 📍 Always learning by building real-world projects
 - 🤝 Open to collaboration on interesting projects
 
