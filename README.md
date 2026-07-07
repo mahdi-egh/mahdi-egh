@@ -80,7 +80,7 @@ American Sign Language (ASL) Recognition using **Python, TensorFlow and MediaPip
 ### 🐍 CS50P – Introduction to Programming with Python
 **Harvard University**
 
-🔗 YOUR_CS50P_CERTIFICATE_LINK
+🔗 https://certificates.cs50.io/c31b1b10-1b38-4cd6-b7b9-486425c6ce03.pdf?size=letter
 
 ---
 
