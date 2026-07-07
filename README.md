@@ -1,7 +1,6 @@
 Hi there 👋, I'm Mahdi Eghdamdoust
 
-<p align="center">
-  <img src="./assets/coding.gif" width="500" alt="Coding GIF">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mahdi%20Eghdamdoust&fontSize=45&fontColor=ffffff"/>
 </p><p align="center">
   <a href="mailto:mahdieghdamdoust@gmail.com">
     <img src="https://img.shields.io/badge/Email-mahdieghdamdoust%40gmail.com-red?style=for-the-badge&logo=gmail">
